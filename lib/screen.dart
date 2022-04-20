@@ -97,7 +97,7 @@ class _baruState extends State<baru> {
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
-                  Text("5"),
+                  Text("2"),
                   Icon(
                     Icons.star_rate,
                     size: 17,
@@ -106,7 +106,7 @@ class _baruState extends State<baru> {
                   SizedBox(
                     width: 42,
                   ),
-                  Text("4"),
+                  Text("2"),
                   Icon(
                     Icons.star_rate,
                     size: 17,
@@ -115,7 +115,7 @@ class _baruState extends State<baru> {
                   SizedBox(
                     width: 42,
                   ),
-                  Text("5"),
+                  Text("3"),
                   Icon(
                     Icons.star_rate,
                     size: 17,
@@ -124,7 +124,7 @@ class _baruState extends State<baru> {
                   SizedBox(
                     width: 42,
                   ),
-                  Text("4"),
+                  Text("2"),
                   Icon(
                     Icons.star_rate,
                     size: 17,
@@ -137,20 +137,20 @@ class _baruState extends State<baru> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
                   Text(
-                    "JAVA",
+                    "HTML",
                     style: TextStyle(color: Color.fromARGB(255, 216, 212, 212)),
                   ),
                   SizedBox(width: 28),
                   Text(
-                    "FLUTTER",
+                    "CSS",
                     style: TextStyle(color: Color.fromARGB(255, 216, 212, 212)),
                   ),
                   SizedBox(width: 28),
-                  Text("SQL",
+                  Text("Javascript",
                       style:
                           TextStyle(color: Color.fromARGB(255, 216, 212, 212))),
                   SizedBox(width: 28),
-                  Text("ENGLISH",
+                  Text("SQL",
                       style:
                           TextStyle(color: Color.fromARGB(255, 216, 212, 212)))
                 ],
